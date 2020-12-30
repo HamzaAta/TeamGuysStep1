@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TeamGuysStep1/.vs/TeamGuysStep1/v16
+/TeamGuysStep1/TeamGuysStep1/obj
+/TeamGuysStep1/.vs/TeamGuysStep1/config
+/TeamGuysStep1/TeamGuysStep1/bin/Debug/netcoreapp3.1
