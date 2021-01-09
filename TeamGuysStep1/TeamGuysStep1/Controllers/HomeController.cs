@@ -8,9 +8,9 @@ namespace TeamGuysStep1.Controllers
 {
     public class HomeController: Controller
     {
-        public string Index()
+        public ViewResult Index()
         {
-            return "hahah";
+            return View();
         }
     }
 }
